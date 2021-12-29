@@ -1,4 +1,4 @@
-# Wafer-Defect-Classification
+# Semiconductor-Wafer-Defect-Classification
 Semiconductor wafer defect classification based on the WM-811K dataset
 
 In this project, we will demonstrate how data science can be used in wafer fabrication to uncover defect patterns through analyzing wafer defect data.
